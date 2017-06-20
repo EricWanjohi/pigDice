@@ -16,6 +16,8 @@ When a player's total score reaches 100 or more, game ends and winner page shows
 
 ## Setup/Installation Requirements
 
+* _A player can play it on ericwanjohi.github.io/pigDice_
+        OR
 * _Clone this repository_
 * _Open a HTML file_
 * _Open web browser of choice_
