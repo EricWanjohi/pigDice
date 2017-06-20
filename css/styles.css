@@ -1,0 +1,85 @@
+#body {
+  background-image: url("../images/carpet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+input.player1Name {
+  font-size: 17px;
+  color: black;
+}
+
+input.player2Name {
+  font-size: 17px;
+  color: black;
+}
+
+.row start-menu {
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+#start {
+  margin-bottom: 50px;
+}
+
+.btn {
+  background-color: white;
+  color: red;
+  border: 1px;
+  border-color: #009999;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 70%;
+  font-size: 18px;
+  opacity: 0.9;
+}
+
+.form-group {
+  color: #009999;
+  font-size: 18px;
+  text-align: center;
+}
+
+#label {
+  color: white;
+  align-self: center;
+  font-size: 18px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+.player-console {
+  text-align: center;
+}
+
+.name1 {
+  text-align: center;
+  color: yellow;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.name2 {
+  text-align: center;
+  color: yellow;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.player1Name {
+  width: 40%;
+  text-align: center;
+}
+
+.player2Name {
+  width: 40%;
+  text-align: center;
+}
+
+#new-game {
+  margin-top: 5%;
+}
