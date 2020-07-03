@@ -5,6 +5,7 @@
 ## Description
 
 _This web application allows two players to play a game of Pig Dice._
+https://ericwanjohi.github.io/pigDice/
 
 ## Specs
 Player 1 inputs name and Player 2 inputs name, and clicks start button e.g Player 1: Eric / Player 2: Kamau / Click START goes to game console
